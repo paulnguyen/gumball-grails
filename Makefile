@@ -12,11 +12,11 @@ war: compile
 	grails war
 
 run: 
-	echo Starting Grails at:  http://localhost:8080
+	echo Starting Grails at:  http://localhost:9090
 	grails run-app
 
 run-test: 
-	echo Starting Grails at:  http://localhost:8080
+	echo Starting Grails at:  http://localhost:9090
 	grails test run-app	
 
 run-boot:

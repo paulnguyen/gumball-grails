@@ -21,14 +21,13 @@
 
 		sdk ls groovy
 		sdk ls grails
-	   	sdk install grails 3.2.5
+	   	sdk install grails 3.3.3	
 	   	sdk current
-
 	   	grails --version
 	    
-		| Grails Version: 3.2.5
-		| Groovy Version: 2.4.7
-		| JVM Version: 1.8.0_112
+        | Grails Version: 3.3.3
+        | Groovy Version: 2.4.14
+        | JVM Version: 1.8.0_171
 		
 	    
 ## Grails Commands

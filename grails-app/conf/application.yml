@@ -1,8 +1,10 @@
+server:
+  port: 9090
 ---
 grails:
     profile: web
     codegen:
-        defaultPackage: gumball.v1
+        defaultPackage: gumball.v2
     spring:
         transactionManagement:
             proxies: false
